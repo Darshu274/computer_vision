@@ -1,3 +1,3 @@
 # computer_vision
 
-new details to be added
+three lectures have been added
